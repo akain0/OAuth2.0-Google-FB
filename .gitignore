@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Output of 'npm run build'
+dist/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Dependencies
+package-lock.json
+yarn.lock
